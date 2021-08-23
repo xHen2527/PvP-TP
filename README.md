@@ -8,5 +8,5 @@ Go to [Latest Realeases](https://github.com/xXhen2527Xx/TP/releases/latest/)
 **Hen2527** - Owner/Creator
 
 # How to Import Texture Packs
-[Bedrock Edition](https://github.com/xXhen2527Xx/TP/Bedrock Edition/)
-[Java Edition](https://github.com/xXhen2527Xx/TP/Java Edition/)
+[Bedrock Edition](https://github.com/xXhen2527Xx/TP/BE/)<br>
+[Java Edition](https://github.com/xXhen2527Xx/TP/JE/)
