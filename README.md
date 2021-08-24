@@ -16,7 +16,11 @@ Go to [Latest Realeases](https://github.com/xXhen2527Xx/PvP-TP/releases/latest/)
 
 # Showcase Pictures!
 ![](/tools.png)
+
 ![](/ores.png)
+
 ![](/lava-and-water.png)
+
 ![](/sky.png)
+
 ![](/blocks.png)
