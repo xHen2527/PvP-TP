@@ -12,4 +12,4 @@ Go to [Latest Realeases](https://github.com/xXhen2527Xx/PvP-TP/releases/latest/)
 [Bedrock Edition](BE/)<br>
 
 # Please Read LICENSE Before Using Pack!
-[Read Here](https://github.com/xXhen2527xX/PvP-TP/LICENSE)
+[Read Here](https://github.com/xXhen2527Xx/PvP-TP/blob/master/LICENSE)
