@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§aMade By Hen2527\n\n§aDownload Latest Pack here! §ehttps://hen2527.tk/TP\n§bThanks for Downloading This Texture Pack!\n§aThis packs include night vision shader pack! Caves are light it up and Improve it up!\n§cBest PvP Texture Packs + Night Vision + Short Sword! + PvP Blocks!\n\n§dMade By Hen2527!\n§6v2.0.1",
+        "name": "! §bHen2527 §cPvP Texture Pack",
+        "uuid": "f89ce5a9-042e-4228-ab1a-4febb943f30c",
+        "version": [
+            2,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            11
+        ]
+    },
+    "modules": [
+        {
+            "description": "§aMade By Hen2527\n\n§aDownload Latest Pack here! §ehttps://hen2527.tk/TP\n§bThanks for Downloading This Texture Pack!\n§aThis packs include night vision shader pack! Caves are light it up and Improve it up!\n§cBest PvP Texture Packs + Night Vision + Short Sword! + PvP Blocks!\n\n§dMade By Hen2527!\n§6v2.0.1",
+            "type": "resources",
+            "uuid": "7bc70183-2f6b-4a9a-8da3-21a2dffaa0a8",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
