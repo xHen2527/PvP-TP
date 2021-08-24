@@ -1,6 +1,6 @@
 [![](https://github.com/xXhen2527Xx/PvP-TP/blob/master/title.png?raw=true)](https://hen2527.tk/TP/)
 # PvP Texture Pack
-A Minecraft Bedrock/Java PvP Texture Packs!
+A Minecraft Java PvP Texture Packs!
 
 # Download
 Go to [Latest Realeases](https://github.com/xXhen2527Xx/PvP-TP/releases/latest/)
