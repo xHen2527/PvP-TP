@@ -7,7 +7,7 @@
 - Help with [issues](https://github.com/xXhen2527Xx/PvP-TP/issues)
 - Help with [wiki](https://github.com/xXhen2527Xx/PvP-TP/wiki)
 
-<h1 id="support"></h1>
+<h1 id="support">Help & Support us!</h1>
 
 - https://ko-fi.com/soulcampfire
 - https://patreon.com/APIHost
