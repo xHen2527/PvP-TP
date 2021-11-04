@@ -1,26 +1,19 @@
-[![](https://github.com/xXhen2527Xx/PvP-TP/blob/master/title.png?raw=true)](https://hen2527.tk/TP/)
-# PvP Texture Pack
-A Minecraft Java PvP Texture Packs!
+<p align=center><a href="github.com/xXhen2527Xx/PvP-TP/releases/latest/"><img src="title.png"></img></a><br>A PvP Texture Pack for Minecraft: Bedrock Edition<p>
+<hr>
 
-# Download
-Go to [Latest Realeases](https://github.com/xXhen2527Xx/PvP-TP/releases/latest/)
+<h1 id="contribute">Contribute to repository</h1>
 
-# Developers
-**Hen2527** - Owner/Creator
+- Make [Pull Requests](https://github.com/xXhen2527Xx/PvP-TP/pulls)
+- Help with [issues](https://github.com/xXhen2527Xx/PvP-TP/issues)
+- Help with [wiki](https://github.com/xXhen2527Xx/PvP-TP/wiki)
 
-# How to Import Texture Packs
-[Bedrock Edition](BE/)<br>
+<h1 id="support"></h1>
 
-# Please Read LICENSE Before Using Pack!
-[Read Here](https://github.com/xXhen2527Xx/PvP-TP/blob/master/LICENSE)
+- https://ko-fi.com/soulcampfire
+- https://patreon.com/APIHost
+- https://www.dyzer.tk/
 
-# Showcase Pictures!
-![](/tools.png)
+<h1 id="links">Links</h1>
 
-![](/ores.png)
-
-![](/lava-and-water.png)
-
-![](/sky.png)
-
-![](/blocks.png)
+- [Official Website](https://www.dyzer.tk/)
+- [Official Discord](https://www.dyzer.tk/go/discord)
