@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Dyzer Support Website
+    url: https://support.dyzer.tk/
+    about: Please ask and answer questions here.
+  - name: Dyzer Bug Detector
+    url: https://bugs.dyzer.tk/
+    about: Please report security vulnerabilities here.
